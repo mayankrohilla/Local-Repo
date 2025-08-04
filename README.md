@@ -1,1 +1,1 @@
-#This is my local repo which i created in order to pratice simple commands.
+# This is my local repo which i created in order to practice simple commands.
